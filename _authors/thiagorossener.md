@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/img_20211006_080829_675.jpg
 name: andreribas
 display_name: André Ribas
 position: Chief Editor
