@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: André Ribas
+title: André Ribas | Site
+description: André Ribas - Sites 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - site
+  - andreribas
+  - andre
+  - ARNextRobot
 show_hero: true
 menu:
   - title: Home
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: andreribas@arnext.xyz
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -29,10 +28,10 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: Andreribas15
 facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+twitter_username: Andre_Ribas1
+instagram_username: Andre_Ribas1
 linkedin_username: linkedin_username
 medium_username: medium_username
 
@@ -48,7 +47,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "pt"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
