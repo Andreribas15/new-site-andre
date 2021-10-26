@@ -1,0 +1,9 @@
+error_404:
+  title: "404."
+  message: Desculpa. Não encontramos essa pagina
+contact:
+  placeholders:
+    name: André Ribas
+    email: andreribas@arnext.xyz
+  errors:
+    locale: en
