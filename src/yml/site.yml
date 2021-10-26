@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+formspree_form_id: formspree_form_id
+name: André Ribas
+title: André Ribas | Site
+description: "André Ribas - Sites "
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - site
+  - andreribas
+  - andre
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +17,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
+email: andreribas2arnext.xyz
 disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
