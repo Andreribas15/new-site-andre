@@ -10,5 +10,5 @@ facebook_username: Andre_Ribas1
 twitter_username: Andre_Ribas1
 instagram_username: Andre_Ribas1
 linkedin_username: Andre_Ribas1
-medium_username: Andre_Ribas1
+medium_username: andre-ribas
 ---
