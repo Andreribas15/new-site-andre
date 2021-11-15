@@ -18,28 +18,26 @@ Esse é um pequeno texto sobre uma flor criada por uma habitual estudante brasil
 
 Mas não me leve a mau todo ser humano tem suas vantages e claramente flores de papel não são uma das vanteges dela (ou "sua" se é a Barbara quem estiver lendo esse post)
 
-
+⁣
 
 Apesar de tudo quero que esteja tangível de que é apenas uma brincadeira e mesmo que a flor não tenho sido um exemplo de maestria ainda sim sei que a Barbara é uma pessoa assídua e como muitos predicados!
 
+⁣
 
+⁣
 
-
-
-
+⁣⁣
 
 Créditos especiais a:
 
-Barbara - Sem ela eu não teria gasto 6 horas para escrever esse texto :) 
+⁣
 
+Barbara - Sem ela eu não teria gasto 6 horas para escrever esse texto :)
 
-
-
+⁣
 
 Silmara - Por me cobrar incansavelmente por este post se não fosse por ela eu teria esquecido completamente
 
-
-
-
+⁣
 
 André Ribas - Eu. Acho que mereço créditos também afinal foi muito trabalhoso escrever este texto 🤷
