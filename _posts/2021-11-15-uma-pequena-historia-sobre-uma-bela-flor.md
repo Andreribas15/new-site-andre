@@ -28,7 +28,7 @@ Apesar de tudo quero que esteja tangível de que é apenas uma brincadeira e mes
 
 ⁣⁣
 
-Créditos especiais a:
+**Créditos especiais a:**
 
 ⁣
 
