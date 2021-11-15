@@ -34,10 +34,6 @@ Apesar de tudo quero que esteja tangível de que é apenas uma brincadeira e mes
 
 Barbara - Sem ela eu não teria gasto 6 horas para escrever esse texto :)
 
-⁣
+⁣Silmara - Por me cobrar incansavelmente por este post se não fosse por ela eu teria esquecido completamente
 
-Silmara - Por me cobrar incansavelmente por este post se não fosse por ela eu teria esquecido completamente
-
-⁣
-
-André Ribas - Eu. Acho que mereço créditos também afinal foi muito trabalhoso escrever este texto 🤷
+⁣André Ribas - Eu. Acho que mereço créditos também afinal foi muito trabalhoso escrever este texto 🤷
