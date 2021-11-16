@@ -1,7 +1,6 @@
 ---
 date: 2021-11-15 13:07:52
 layout: post
-comments: true
 title: Uma pequena historia sobre uma "bela" flor
 description: Um pequeno texto sobre uma "linda" flor para decorar "lixo"
 image: /assets/img/uploads/4612473267_1e49d76f1c_b.jpg
