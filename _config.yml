@@ -20,7 +20,7 @@ menu:
     url: /feed.xml
 email: andreribas@arnext.xyz
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: andre_ribas1
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,11 +29,11 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: Andreribas15
-facebook_username: facebook_username
+facebook_username: Andre_Ribas1
 twitter_username: Andre_Ribas1
 instagram_username: Andre_Ribas1
-linkedin_username: linkedin_username
-medium_username: medium_username
+linkedin_username: Andre_Ribas1
+medium_username: andre-ribas
 
 
 # Posts Settings
@@ -44,8 +44,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "new.andreribas.arnext.xyz" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "pt"
 categories_folder: category
