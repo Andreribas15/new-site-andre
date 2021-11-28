@@ -17,5 +17,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Política de Privacidade
+    url: /politica-de-privacidade
 email: andreribas@arnext.xyz
 disqus_username: andre_ribas1
