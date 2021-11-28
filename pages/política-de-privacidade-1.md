@@ -3,7 +3,7 @@ layout: page
 menu: true
 date: 2021-11-28 20:25:26
 title: Política de Privacidade
-permalink: /{{slug}}/
+permalink: /politica-de-privacidade/
 description: Política de Privacidade
 ---
 Política de privacidade
