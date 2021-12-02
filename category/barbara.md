@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Barbara
-slug: "{{slug}}"
-description: Críticas a ações da Barbara
+slug: "barbara"
+description: A Barbara
 ---
