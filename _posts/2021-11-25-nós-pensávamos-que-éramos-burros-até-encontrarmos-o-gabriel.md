@@ -5,7 +5,7 @@ title: Nós pensávamos que éramos burros até encontrarmos o Gabriel
 description: Nós pensávamos que éramos burros até encontrarmos o Gabriel
 image: /assets/img/uploads/02.png.png
 optimized_image: /assets/img/uploads/02.png.png
-category: tips
+category: do-conflito
 tags:
   - conflito
 author: andreribas
