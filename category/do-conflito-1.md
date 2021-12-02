@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Do conflito
-slug: "{{slug}}"
+slug: "do-conflito"
 description: Do conflito
 ---
