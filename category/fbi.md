@@ -1,6 +1,6 @@
 ---
 layout: category
 title: FBI
-slug: "{{slug}}"
+slug: "fbi"
 description: Federal Bureau of Investigation
 ---
