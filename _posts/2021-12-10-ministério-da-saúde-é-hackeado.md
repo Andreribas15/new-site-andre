@@ -21,8 +21,6 @@ Como alguns sites do Ministério da Saúde foram invadidos por um grupo de hacke
 
 O grupo responsável pelo ataque de ransomware aos sistemas do Ministério foi o “Lapsus$ Group”, após deixar uma mensagem informando que todos os arquivos da saúde foram copiados e excluídos. A Agência Brasil informou que, eles exigem o pagamento de um resgate, deixando um canal de negociações aberto para que representantes do governo entrem em contato.
 
-
-
 Como meio de comunicação, eles estão utilizando o e-mail da Ctemplar, conhecido por ser um serviço anônimo de correio eletrônico pela internet.
 
 > “O Ministério da Saúde foi hackeado por nós. Mais de 50 TB de dados foram copiados dos sistemas de nuvem e intranet nas últimas semanas e foram apagados dos sistemas do Ministério da Saúde. Solicitamos que o ADMIN / EXECUTIVO do Ministério da Saúde entre em contato conosco pelo e-mail saudegroup@ctemplar.com para o retorno dos dados, e para evitar vazamentos.”
@@ -33,3 +31,9 @@ Os sistemas estão indisponíveis tanto pelo site quanto pelo aplicativo.
 ![Site ConectaSus da Sáude indisponível](/assets/img/uploads/img.jpg "Site ConectaSus da Sáude continua indisponível após ataque de grupo hacker")
 
 Até o fechamento desta matéria, o Ministério da Saúde já havia recuperado acesso ao DNS, mas com relação aos dados ainda não está claro se tinham backups e se negociações serão feitas com os hackers.
+
+ 
+
+ 
+
+E de forma impressionante, ao acessar o grupo público criado pelos próprios hackers, é possível ver vários usuários, principalmente brasileiros, apoiando as ações dos hackers. E, honestamente, nem tenho palavras para descrever o quão absurdo é saber que existem tantos [valdevinos](https://www.sinonimos.com.br/valdevinos/)
