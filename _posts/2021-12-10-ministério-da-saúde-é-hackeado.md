@@ -7,7 +7,7 @@ description: Alguns sites do Ministério da Saúde foram invadidos por um grupo 
   hackers na madrugada desta sexta-feira (10).
 image: /assets/img/uploads/img3.jpg
 optimized_image: /assets/img/uploads/img3.jpg
-category: blog
+category: hacker
 author: andreribas
 paginate: false
 ---
