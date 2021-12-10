@@ -5,7 +5,7 @@ title: Uma pequena historia sobre uma "bela" flor
 description: Um pequeno texto sobre uma "linda" flor para decorar "lixo"
 image: /assets/img/uploads/4612473267_1e49d76f1c_b.jpg
 optimized_image: /assets/img/uploads/4612473267_1e49d76f1c_b.jpg
-category: "{{slug}}"
+category: barbara
 tags:
   - barbara
   - flor
