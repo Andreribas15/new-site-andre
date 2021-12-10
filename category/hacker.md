@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Hacker
-slug: "{{slug}}"
+slug: "hacker"
 description: Assuntos sobre hackers
 ---
