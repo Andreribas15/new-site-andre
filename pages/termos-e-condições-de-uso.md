@@ -5,6 +5,10 @@ date: 2021-12-20 08:33:50
 title: Termos e Condições de Uso
 permalink: /{{slug}}/
 description: Termos e Condições de Uso
+tags:
+  - Termos
+  - Condições
+  - Uso
 ---
 
 
