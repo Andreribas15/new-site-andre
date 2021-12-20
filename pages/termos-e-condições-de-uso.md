@@ -12,7 +12,7 @@ description: Termos e Condições de Uso
 
 ### TERMOS DE USO — André Ribas
 
-André Ribas, pessoa jurídica de direito privado descreve, através deste documento, as regras de uso do site https://new.andreribas.arnext.xyz e qualquer outro site, loja ou aplicativo operado pelo proprietário.
+André Ribas, pessoa física descreve, através deste documento, as regras de uso do site https://new.andreribas.arnext.xyz e qualquer outro site, loja ou aplicativo operado pelo proprietário.
 
 Ao navegar neste website, consideramos que você está de acordo com os Termos de Uso abaixo.
 
