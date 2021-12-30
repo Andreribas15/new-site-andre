@@ -16,3 +16,6 @@ paginate: true
 Esse é apenas um post de teste, não tem nada de interessante aqui 
 
 ![](/assets/img/uploads/photo_2021-11-14_15-51-25.jpg)
+
+<a href="https://arnext.net/produto/hospedagem-premium">
+![Hostinger Ads](/assets/img/uploads/br-970x250.jpg "Ads Hostinger")
