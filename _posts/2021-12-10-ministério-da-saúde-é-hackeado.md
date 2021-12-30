@@ -32,8 +32,6 @@ Os sistemas estão indisponíveis tanto pelo site quanto pelo aplicativo.
 
 Até o fechamento desta matéria, o Ministério da Saúde já havia recuperado acesso ao DNS, mas com relação aos dados ainda não está claro se tinham backups e se negociações serão feitas com os hackers.
 
- 
+E de forma impressionante, ao acessar o grupo público criado pelos próprios hackers, é possível ver vários usuários, principalmente brasileiros, apoiando as ações dos hackers. 
 
- 
-
-E de forma impressionante, ao acessar o grupo público criado pelos próprios hackers, é possível ver vários usuários, principalmente brasileiros, apoiando as ações dos hackers. E, honestamente, nem tenho palavras para descrever o quão absurdo é saber que existem tantos [valdevinos](https://www.sinonimos.com.br/valdevinos/)
+<img src="https://www.hostg.xyz/aff_i?offer_id=264&aff_id=97525&url=https%3A%2F%2Fwww.hostinger.com.br%2Fcart-hosting%2Fproduct%2Fhosting-hostinger-premium%3Futm_source%3Daff{affiliate_id}%26utm_campaign%3D{offer_id}%26session%3D{transaction_id}&tiny_url=1" width="0" height="0" style="position:absolute;visibility:hidden;" border="0" />
