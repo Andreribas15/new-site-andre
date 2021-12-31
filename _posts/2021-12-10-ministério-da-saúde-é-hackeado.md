@@ -34,5 +34,5 @@ Até o fechamento desta matéria, o Ministério da Saúde já havia recuperado a
 
 E de forma impressionante, ao acessar o grupo público criado pelos próprios hackers, é possível ver vários usuários, principalmente brasileiros, apoiando as ações dos hackers. 
 
-<a href="https://arnext.net/produto/hospedagem-premium">
+<a href="https://www.hostg.xyz/SH8xA">
 ![Hostinger Ads](/assets/img/uploads/br-970x250.jpg "Ads Hostinger")
