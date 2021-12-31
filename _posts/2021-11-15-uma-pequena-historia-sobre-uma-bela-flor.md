@@ -38,5 +38,5 @@ Barbara - Sem ela eu não teria gasto 6 horas para escrever esse texto :)
 
 ⁣André Ribas - Eu. Acho que mereço créditos também afinal foi muito trabalhoso escrever este texto 🤷
 
-<a href="https://arnext.net/produto/hospedagem-premium">
+<a href="https://www.hostg.xyz/SH8xA">
 ![Hostinger Ads](/assets/img/uploads/br-970x250.jpg "Ads Hostinger")
