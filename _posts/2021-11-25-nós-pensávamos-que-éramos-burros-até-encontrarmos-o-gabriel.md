@@ -25,5 +25,5 @@ Acho que dilucida em poucas palavras a fidedignidade de algo tangível. Notoriam
 
 Bem... Não vou exaurir muito do meu tempo penejando este texto. Hoje é meu aniversário então vou para por aqui... tenho coisas mas importantes a fazer
 
-<a href="https://arnext.net/produto/hospedagem-premium">
+<a href="https://www.hostg.xyz/SH8xA">
 ![Hostinger Ads](/assets/img/uploads/br-970x250.jpg "Ads Hostinger")
