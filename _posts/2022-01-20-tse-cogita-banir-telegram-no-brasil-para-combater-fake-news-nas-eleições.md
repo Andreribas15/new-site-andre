@@ -26,6 +26,10 @@ Fonte: [Tecnoblog](https://tecnoblog.net/noticias/2022/01/19/tse-cogita-banir-te
 
 ## **Versão em Inglês (English Version)**
 
+
+
+# TSE considers banning Telegram in Brazil to fight fake news in elections
+
 After repeated attempts to contact Telegram representatives, the [](https://www.tse.jus.br/)[Tribunal Superior Eleitoral](https://www.tse.jus.br/) (TSE) is considering banning the messenger in Brazil as a measure to combat fake news in the 2022 Elections.
 
 But the attempt to contact was frustrated. According to [Valor Econômico](https://valor.globo.com/politica/noticia/2022/01/18/sem-resposta-do-telegram-tse-estuda-medidas-contra-fake-news-nas-eleicoes-e-possibilidade-de-o-congresso-banir-plataforma-do-brasil.ghtml), spokespersons for the TSE confirmed that the letter was sent to two emails, but there was no response.
