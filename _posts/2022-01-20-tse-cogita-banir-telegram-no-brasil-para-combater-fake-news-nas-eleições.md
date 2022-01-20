@@ -22,13 +22,9 @@ Ao enviar o documento físico, outro transtorno: ninguém do Telegram foi locali
 
 No início de janeiro, em entrevista ao Valor, Luís Roberto Barroso [alegou](https://www.tse.jus.br/imprensa/noticias-tse/2021/Dezembro/barroso-envia-oficio-ao-telegram-e-pede-cooperacao-no-combate-a-desinformacao) que, caso o Telegram continuasse a ignorar a Justiça Eleitoral, o Congresso Nacional deveria suspender o serviço da plataforma no Brasil.
 
-
-
-
+Fonte: [Tecnoblog](https://tecnoblog.net/noticias/2022/01/19/tse-cogita-banir-telegram-no-brasil-para-combater-fake-news-nas-eleicoes/)
 
 ## **Versão em Inglês (English Version)**
-
-
 
 After repeated attempts to contact Telegram representatives, the [](https://www.tse.jus.br/)[Tribunal Superior Eleitoral](https://www.tse.jus.br/) (TSE) is considering banning the messenger in Brazil as a measure to combat fake news in the 2022 Elections.
 
@@ -37,3 +33,5 @@ But the attempt to contact was frustrated. According to [Valor Econômico](https
 When sending the physical document, another inconvenience: no one from Telegram was located at the company's address in the United Arab Emirates.
 
 In early January, in an interview with Valor, Luís Roberto Barroso [claimed](https://www.tse.jus.br/imprensa/noticias-tse/2021/Dezembro/barroso-envia-oficio-ao-telegram-e-pede-cooperacao-no-combate-a-desinformacao) that, if Telegram continued to ignore the Electoral Justice, the National Congress should suspend the service of the platform in Brazil.
+
+Source: [Tecnoblog](https://tecnoblog.net/noticias/2022/01/19/tse-cogita-banir-telegram-no-brasil-para-combater-fake-news-nas-eleicoes/)
