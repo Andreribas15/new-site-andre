@@ -10,7 +10,7 @@ category: blog
 author: andreribas
 paginate: false
 ---
-A falta de interesse demonstrada pelo programador russo Pavel Durov, criador do Telegram, em dialogar com o presidente do Tribunal Superior Eleitoral (TSE), Luís Roberto Barroso, acendeu o sinal de alerta entre os procuradores do Ministério Público Federal (MPF) de São Paulo que conduzem um inquérito civil público sobre desinformação e mentiras veiculadas em redes sociais. Ao Estadão, membros da instituição disseram que a plataforma pode vir a ser alvo de medidas judiciais de curto prazo e, em último caso, suspensão temporária no País.
+A falta de resposta pelo programador russo Pavel Durov, criador do Telegram, em dialogar com o presidente do Tribunal Superior Eleitoral (TSE), Luís Roberto Barroso, acendeu o sinal de alerta entre os procuradores do Ministério Público Federal (MPF) de São Paulo que conduzem um inquérito civil público sobre desinformação e mentiras veiculadas em redes sociais. Ao Estadão, membros da instituição disseram que a plataforma pode vir a ser alvo de medidas judiciais de curto prazo e, em último caso, suspensão temporária no País.
 
 Como mostrou o [Estadão](https://politica.estadao.com.br/noticias/eleicoes,mpf-prepara-cerco-ao-telegram-e-sinaliza-que-pode-bloquear-servico,70003959928), o grupo envolvido nas investigações quer impedir a propaganda eleitoral em serviços de trocas de mensagens, como o Telegram. No dia 6 de janeiro, o procurador regional Yuri Corrêa da Luz, responsável pelo inquérito, oficiou o Twitter com pedidos de informações a respeito dos canais de denúncia de notícias falsas na plataforma, que até aquele momento não estavam disponíveis no Brasil.
 
